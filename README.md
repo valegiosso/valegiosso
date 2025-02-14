@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **giossodev@gmail.com**
 
-- 📄 Know about my experiences [https://www.dropbox.com/scl/fi/8iqbfwhqlibryziefj71g/CV-En-ValentinGiosso.pdf?rlkey=l6mis8xr9temt07cf44ev3yc6&st=qms69mc8&dl=0](https://www.dropbox.com/scl/fi/8iqbfwhqlibryziefj71g/CV-En-ValentinGiosso.pdf?rlkey=l6mis8xr9temt07cf44ev3yc6&st=qms69mc8&dl=0)
+- 📄 Know about my experiences [My CV](https://www.dropbox.com/scl/fi/8iqbfwhqlibryziefj71g/CV-En-ValentinGiosso.pdf?rlkey=l6mis8xr9temt07cf44ev3yc6&st=qms69mc8&dl=0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
