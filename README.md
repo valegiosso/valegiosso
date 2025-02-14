@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Valentin Giosso</h1>
-<h3 align="center">A passionate frontend developer from Argentina, with aspirations of specializing in backend development. At 20 years old, I've shown myself to be a perfectionist who's passionate about programming. I love working in teams and staying up-to-date with the latest technology trends. Additionally, I'm a curious individual who's always seeking to learn new skills and knowledge to improve as a professional. I'm always ready to face new challenges and overcome them.</h3>
+<h3 align="center">A passionate Full Stack Developer from Argentina, with aspirations of specializing in backend development. At 21 years old, I've shown myself to be a perfectionist who's passionate about programming. I love working in teams and staying up-to-date with the latest technology trends. Additionally, I'm a curious individual who's always seeking to learn new skills and knowledge to improve as a professional. I'm always ready to face new challenges and overcome them.</h3>
 
 - 🌱 I’m currently learning **in React and backend development**
 
